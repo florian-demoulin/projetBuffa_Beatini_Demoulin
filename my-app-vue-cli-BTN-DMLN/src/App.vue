@@ -24,7 +24,7 @@ export default {
   name: 'app',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Bienvenue aux bons coins de Toto et FloFlo'
     }
   }
 }
